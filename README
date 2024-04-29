@@ -1,3 +1,4 @@
 This project is to simulate phsyics with rockets. 
 I primarly used this to learn solving differential equations and integration for physics
 The simulation uses matplotlib to simulate because its mostly plotting
+written in python using numpy for linear alegbra
